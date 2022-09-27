@@ -4,6 +4,7 @@ public class Prueba {
 
         System.out.println("Martin Perez.");
         System.out.println("Tengo 20 años y nací en 2002.");
+        System.out.println("Mi comida favorita es la pasta");
 
     }
 
